@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/simplonco/js-assessment-fork.svg?branch=master)](https://travis-ci.org/simplonco/js-assessment-fork)
 
 # A test-driven JS assessment
 
