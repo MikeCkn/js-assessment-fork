@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/rmurphey/js-assessment.svg?branch=master)](https://travis-ci.org/rmurphey/js-assessment)
+
 
 # A test-driven JS assessment
 
@@ -58,11 +58,7 @@ the `data` directory; you can access it at `/data/<filename>.json`.
 
 First, bear in mind that looking up the answers is going to teach you a whole
 lot less than you'll learn by working on the tests, even if you occasionally get
-stuck. I'd recommend only looking at the answers once you have the tests
-passing, to see if there's another way you could have approached the
-problem. When you're ready to look at the answers, you can find them
-[here](https://github.com/rmurphey/js-assessment-answers); I'll do my best to
-keep them up to date.
+stuck. I'd recommend only looking at the answers in the cup of tea.
 
 ## I hate \<some technology you've chosen\>
 
@@ -73,13 +69,11 @@ this be more flexible than it currently is.
 
 # Todos
 
-There are a number of things that would make this project better; check out the
-[issues](https://github.com/rmurphey/js-assessment/issues) for details, pull
-requests welcome!
+Just make it!
 
 # License
 
-Copyright &copy; 2012-2016 Rebecca Murphey with many thanks to several
+Copyright &copy; 2012-2016 Initially to *Rebecca Murphey* with many thanks to several
 [contributors](https://github.com/rmurphey/js-assessment/graphs/contributors).
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
